@@ -31,7 +31,7 @@ function dibujarLinea(color, xinicial, yinicial, xfinal, yfinal, lienzo)
 function dibujarTeclado(evento)
 {
 
-  var colorcito = "green";
+  var colorcito = "blue";
   var movimiento = 5;
 
 
