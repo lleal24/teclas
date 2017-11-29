@@ -1,0 +1,29 @@
+[33mcommit 525b1f4408fe1f391267cee0c23df0a430eebdd9[m[33m ([m[1;36mHEAD -> [m[1;32mCambiosPruebas[m[33m)[m
+Author: toctoc <verdeamarrojo@hotmail.com>
+Date:   Mon Nov 27 14:40:31 2017 -0500
+
+    Add text Select your favorite color
+
+[33mcommit 93c2d2b059cd450cac9157f3a7a26214d588fbbe[m
+Author: toctoc <verdeamarrojo@hotmail.com>
+Date:   Mon Nov 27 14:32:47 2017 -0500
+
+    Se agrega un boton para seleccionar color favorito
+
+[33mcommit f8a0deb313fe6fc30c48073cfc637ea04e233139[m[33m ([m[1;32mmaster[m[33m)[m
+Author: toctoc <verdeamarrojo@hotmail.com>
+Date:   Mon Nov 27 13:58:43 2017 -0500
+
+    Agregamos un Parrafo y cambiamos color a Azul
+
+[33mcommit f909a3fc03c7246e15f280f4e775ce5cafef3f83[m
+Author: toctoc <verdeamarrojo@hotmail.com>
+Date:   Fri Nov 24 21:32:28 2017 -0500
+
+    Se quito la caja de texto y el boton en html
+
+[33mcommit 36fd80ba50431c20bae73de254b06681936f934d[m
+Author: toctoc <verdeamarrojo@hotmail.com>
+Date:   Fri Nov 24 21:21:18 2017 -0500
+
+    Iniciamos
